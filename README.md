@@ -11,9 +11,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NazaTarrili&theme=dracula&column=7" alt="andermendoza" /></a> </p>
 
 <!-- BREVE DESCRIPCION -->
-- 📚 I am a graduate of the [Santo Domingo Institute](https://issd.edu.ar/)
+📚 I am a graduate of the [Santo Domingo Institute](https://issd.edu.ar/)
 
-- 📫 How to reach me **nazatarrili.proyectos@gmail.com**
+📫 **[My Portfolio](https://nazatarrili.com/)**
 
 <!-- CONTACTO -->
 <h3 align="left">Connect with me:</h3>
