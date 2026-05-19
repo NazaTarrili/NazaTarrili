@@ -30,12 +30,10 @@
 <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=spring" alt="java" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=mysql" alt="java" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=dotnet" alt="java" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=postresql" alt="java" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=vscode" alt="visual_studio_code" width="40" height="40"/>
 <p>
 
 <!-- GIF FOOTER -->
