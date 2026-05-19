@@ -25,13 +25,12 @@
 <!-- LENGUAJES Y HERRAMIENTAS -->
 <h3 align="left">Languages and Tools:</h3>
 <p>
-<img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=spring" alt="java" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=postgresql" alt="java" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=react" alt="html5" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>
 <p>
